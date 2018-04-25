@@ -17,9 +17,15 @@ votre probabilité de succès est réduite. Moralité vous devez apprendre à fa
 1. Avoir une grande base de connaissance:
     - lire les définitions
     - connaître les formules et théorèmes
+    - faire les éxercices d'application
 2. Se documents en toutes les matières, en plus de son cahier de cours il faut avoir pour la matière:
     - un livre :books:
     - un bord
     - un support numérique (cours audio/vidéo, page web)
-3. A la veille
+3. A la veille ne plus traiter les éxercices puisque vous le ferez pendant les derniers devoirs de classe, évaluations 
+et cours de répétition; ceci dans le but de tester votre capacité à mettre en application les connaissances acquises face un sujet nouveau. Personellement vous devez passer plus dans les relectures de vos cours. Relire tous les cours comme un journal sans rien laisser,
+ceci dans le but d'accroître votre base de connaissance.
+
+## Conclusion
+Nous passons plus de temps à traiter les épreuves en espérant qu'un éxercice revienne à l'examen or 
    
