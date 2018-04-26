@@ -1,2 +1,2 @@
-# prepa-phycologique
+# prepa-phychologique
 Minimiser l'erreur
