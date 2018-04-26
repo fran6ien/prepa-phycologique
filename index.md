@@ -1,7 +1,7 @@
 # PREPARATION PHYCOLOGIQUE AUX EXAMENS </br>
 ## Introduction:
 Savez-vous pourquoi il est difficile de réussir dans la vie? C'est parce que la courbe du succès à une allure décroissance :chart_with_downwards_trend:.
-Le but ici est d'avoir une approche pour minimiser les erreurs pour réussir à son examen.
+Le but ici est d'avoir une approche pour minimiser les erreurs afin réussir son examen.
 ## Définitions:
 1. **p** est la **probabilité de succès** :mortar_board:
 2. **q** est la **probabilité d'échec** :no_entry:
@@ -24,8 +24,8 @@ votre probabilité de succès est réduite. Moralité vous devez apprendre à fa
     - un bord :book:
     - un memo :memo:
     - un support numérique (cours audio/vidéo, page web) :notes:
-3. A la veille de l'examen ne plus traiter les éxercices puisque vous le ferez pendant les derniers devoirs de classe, évaluations 
-et cours de répétition; ceci dans le but de tester votre capacité à mettre en application les connaissances acquises face un sujet nouveau. Personellement vous devez passer plus dans les relectures de vos cours. Relire tous les cours comme un journal sans rien laisser, quand vous vous sentez fatiguer il faut changer de matière. Ceci dans le but d'accroître votre base de connaissance.
+3. A la veille de l'examen ne plus traiter les exercices puisque vous le ferez pendant les derniers devoirs de classe, évaluations 
+et cours de répétition; ceci dans le but de tester votre capacité à mettre en application les connaissances acquises face un sujet nouveau. Personnellement vous devez passer plus dans les relectures de vos cours. Relire tous les cours comme un journal sans rien laisser, quand vous vous sentez fatiguer il faut changer de matière. Ceci dans le but d'accroître votre base de connaissance.
 4. Faire un **_planning_** de révision générale à la veille de l'examen :clock12:.</br> 
 Soyez méthodique, lire d'abord les chapitres qu'on a pas encore lu.</br></br>
     - **Modèle de planning de révision:** </br>
