@@ -1,4 +1,4 @@
-# PREPARATION PHYCOLOGIQUE AUX EXAMENS </br>
+# PREPARATION PHYCHOLOGIQUE AUX EXAMENS </br>
 ## Introduction:
 Savez-vous pourquoi il est difficile de réussir dans la vie? C'est parce que la courbe du succès à une allure décroissance :chart_with_downwards_trend:.
 Le but ici est d'avoir une approche pour minimiser les erreurs afin réussir son examen.
