@@ -52,5 +52,5 @@ Compléter les chapitres manquants dans le tableau au besoin.
 Nous passons plus de temps à traiter les épreuves en espérant qu'un éxercice revienne à l'examen or cette probabilité est très faible, alors qu'en ayant une grande base de connaissances dans laquelle on peut trouver toutes les armes dont nous avons besoin, nous sommes outillés pour affronter à succès n'importe qu'elle type d'épreuve.
 
 </br>
-Ing. Francien FOGNE, </br>
+@Ing. Francien FOGNE, </br>
 :copyright: Avril 2018
